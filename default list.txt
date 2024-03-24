@@ -1,0 +1,20 @@
+1.Flour: Rs.100/kg
+2.Rice: Rs.100/kg
+3.Sugar: Rs.50/kg
+4.Salt: Rs.50/kg
+5.Oil: Rs.480/kg
+6.Powdered Milk: Rs.500/350gm
+7.Teabags: Rs.250/50pcs
+8.Black pepper: Rs.50/pkt
+9.Lentils: Rs.400/kg
+10.Potatoes: Rs.50/kg
+11.Carrots: Rs.60/kg
+12.cheese: Rs.900/kg
+13.Tomatoes: Rs.75/kg
+14.Chicken: Rs.650/kg
+15.Salmon: Rs.300/kg
+16.Pulses: Rs.140/kg
+17.Bread: Rs.60/loaf
+18.Eggs: Rs.150/dz
+19.Apples: Rs.355/kg
+20.Cucumbers: Rs.30/kg
